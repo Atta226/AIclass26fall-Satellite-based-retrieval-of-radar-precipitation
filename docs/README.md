@@ -1,3 +1,9 @@
+# 文档体系说明
+
+## 目录结构
+
+```text
+
 docs/
 │
 ├── README.md                # 文档体系说明（当前文件）
@@ -31,3 +37,5 @@ docs/
     ├── chatgpt.md           # ChatGPT 使用规范
     ├── codex.md             # Codex 使用规范
     └── workflow.md          # AI 协作流程
+
+```
